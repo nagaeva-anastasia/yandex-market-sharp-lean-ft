@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="orderedtest1" storage="c:\users\anastasiya_nagaeva\documents\visual studio 2015\projects\leanfttestproject1\leanfttestproject1\orderedtest1.orderedtest" id="a20da691-b41a-4eae-90bf-8cc3cd442e86" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="c04c99ab-b6cd-52b2-d609-d60058b591c9" name="TestMethod1" storage="bin\debug\leanfttestproject1.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
